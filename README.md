@@ -1,0 +1,1 @@
+This in an app that allows a user to enter an amount in cents and then see that amount reflected in coins. The app will choose the largest denomination possible.
